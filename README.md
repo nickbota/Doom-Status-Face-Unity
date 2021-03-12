@@ -1,2 +1,2 @@
-# DoomStatusFace
-Doomguy's status face recreated in Unity
+# Doom Status Face (Unity)
+Doomguy's status face recreated in Unity using UniRx.
